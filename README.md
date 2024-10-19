@@ -1,6 +1,6 @@
 <h1>Employee Management System</h1>
 
-<p>The <strong>Employee Management System</strong> is a dynamic web application designed to facilitate CRUD operations for employee management, including adding, deleting, and editing employee records, along with providing a comprehensive display of all available employees.</p>
+<p>The <strong>Employee Management System</strong> is a web application for efficiently managing employee records through CRUD operations, built using JSP, Spring, Hibernate, and MySQL.</p>
 
 <h2>Features</h2>
 <ol>
@@ -19,9 +19,6 @@
     <li><strong>Server</strong>: Apache Tomcat</li>
     <li><strong>IDE</strong>: Spring Tool Suite (STS)</li>
 </ul>
-
-<h2>Description</h2>
-<p>The <strong>Employee Management System</strong> offers a seamless user experience by leveraging a combination of frontend and backend technologies. It utilizes JSP, HTML, CSS, and Bootstrap for an intuitive frontend design, allowing users to easily navigate and interact with the application. The backend functionality is powered by the Spring Framework and Hibernate, providing robust CRUD operations for efficient employee management. The application stores employee information in a MySQL database, ensuring data integrity and accessibility. Deployed on the Apache Tomcat server, the application embodies efficiency, reliability, and scalability.</p>
 
 <h2>Installation</h2>
 <ol>
@@ -51,5 +48,8 @@
 <h2>Contact</h2>
 <p>For any inquiries or support, please contact:</p>
 <p><strong>Email</strong>: jaint8648@gmail.com</p>
+
+<h2>License</h2>
+<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <p>Thank you for using the <strong>Employee Management System</strong>! We hope you enjoy using it.</p>
