@@ -49,7 +49,4 @@
 <p>For any inquiries or support, please contact:</p>
 <p><strong>Email</strong>: jaint8648@gmail.com</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
 <p>Thank you for using the <strong>Employee Management System</strong>! We hope you enjoy using it.</p>
