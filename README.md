@@ -50,3 +50,6 @@
 <p><strong>Email</strong>: jaint8648@gmail.com</p>
 
 <p>Thank you for using the <strong>Employee Management System</strong>! We hope you enjoy using it.</p>
+
+ <h2>License</h2>
+  <p>This project is licensed under the MIT License.</p>
